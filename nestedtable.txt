@@ -1,0 +1,35 @@
+<!-- NEsted table  -->
+<!--  
+<table border="1">
+    <tr>
+        <td> 
+            <table>
+            <tr>
+                <td>Web Development </td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>JAVA </td>
+                <td>⭐⭐⭐⭐ </td>
+            </tr>
+        </table> 
+    </td>
+
+        <td> <table>
+           
+            
+        
+            <tr>
+                <td>Photography</td>
+                <td>⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Painting</td>
+                <td>⭐</td>
+            </tr>
+        
+        </table> </td>
+    </tr>
+</table>
+
+-->
